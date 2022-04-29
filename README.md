@@ -1,6 +1,4 @@
 # alexanderveratry.github.io
 a first page for practice
- 
- 
- estoy tratando de que funcione
- 
+
+estoy tratando de crear y puublicar mi primera pagina, eso.
